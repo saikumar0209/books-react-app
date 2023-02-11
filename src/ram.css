@@ -1,0 +1,43 @@
+.overbox {
+    display: flex;
+    justify-content: left;
+    margin-top: 0px;
+    margin-top: 140px;
+    margin-left: 280px;
+}
+
+
+.delbax{
+    background-color: rgb(196, 191, 191);
+    
+    justify-content: center;
+    align-items: center;
+ 
+    border-radius: 0px;
+    
+    width: 500px;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+.formbox{
+    background-color: green;
+    width: 350px;
+    height: 150px;
+    border-radius: 30px;
+   justify-content: left;
+   /* padding: 5px; */
+   /* margin-top: 10px; */
+    
+}
+
+.addbut{
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 0px;
+}
